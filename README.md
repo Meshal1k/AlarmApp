@@ -169,12 +169,7 @@ Here’s a glimpse of the Alarmify interface, featuring quick access to alarms, 
 1. For optimal use, keep your device updated to the latest OS version. 🔄
 2. Alarmify uses secure protocols to ensure that your data is protected. 🔒
 
-# Example of Emphasis
 
-- **Bold Text**: This is **bold**.
-- *Italic Text*: This is *italic*.
-- ***Bold and Italic Text***: This is ***bold and italic***.
-- ~~Strikethrough~~: This text is ~~struck through~~.
 
 
 
