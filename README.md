@@ -10,7 +10,7 @@ Welcome to **Alarmify**, your go-to app for managing alarms, reminders, and dail
 
 ## 🌟 Features Overview
 
-![Features Overview](features_overview.png)
+
 
 Alarmify brings you a set of powerful features to make alarm management easy and efficient:
 
