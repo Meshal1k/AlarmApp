@@ -1,7 +1,7 @@
 
 # Alarmify - Wake Up, Stay On Time! ⏰
 
-![Alarmify Interface](alarmify_interface.png)
+![App ICON](images.png)
 
 
 Welcome to **Alarmify**, your go-to app for managing alarms, reminders, and daily schedules. Designed to make your life easier, Alarmify offers intuitive features to help you stay on time and organized. Whether it's waking up in the morning or reminding you of important tasks, Alarmify ensures you never miss a beat!
@@ -175,6 +175,3 @@ Alarmify can integrate with other apps to improve your productivity. Below is a 
 
 
 
-
----
-![App ICON](images.png)
